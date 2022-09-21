@@ -1,4 +1,4 @@
-# Technical-Project-Assignment-Calkulator
+# Technical-Project-Assignment-Calculator
 Technical Project Assignment - Kalkulator Sederhana (Skilvul)
 
 Fitur - fitur
